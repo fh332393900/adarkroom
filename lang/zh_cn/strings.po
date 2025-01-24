@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: adarkroom\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-01-24 13:19+0800\n"
-"PO-Revision-Date: 2025-01-24 13:29+0800\n"
+"POT-Creation-Date: 2023-08-07 11:35+0800\n"
+"PO-Revision-Date: 2023-08-07 18:53+0800\n"
 "Last-Translator: dblark <2723569669@qq.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.3.2\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-Basepath: .\n"
 "X-POOTLE-MTIME: 1421483365.000000\n"
@@ -221,7 +221,7 @@ msgstr "学会充分消化食物"
 
 #: ../../script/engine.js:147 ../../script/engine.js:824
 msgid "sound on."
-msgstr "开启声音"
+msgstr "声音开启"
 
 #: ../../script/engine.js:153
 msgid "get the app."
@@ -384,27 +384,27 @@ msgstr "{0} /{1}秒"
 
 #: ../../script/engine.js:828
 msgid "sound off."
-msgstr "关闭声音"
+msgstr "声音关闭"
 
 #: ../../script/engine.js:872
 msgid "Sound Available!"
-msgstr "声音可用"
+msgstr "是否启用声音"
 
 #: ../../script/engine.js:876
 msgid "ears flooded with new sensations."
-msgstr ""
+msgstr "传来了许多声响"
 
 #: ../../script/engine.js:877
 msgid "perhaps silence is safer?"
-msgstr ""
+msgstr "也许开启声音会更好一点？"
 
 #: ../../script/engine.js:881
 msgid "enable audio"
-msgstr ""
+msgstr "启用声音"
 
 #: ../../script/engine.js:886
 msgid "disable audio"
-msgstr ""
+msgstr "保持静音"
 
 #: ../../script/events.js:259
 msgid "pause."
@@ -420,15 +420,15 @@ msgstr "服药"
 
 #: ../../script/events.js:330
 msgid "use hypo"
-msgstr ""
+msgstr "注射"
 
 #: ../../script/events.js:346
 msgid "shield"
-msgstr ""
+msgstr "开启护盾"
 
 #: ../../script/events.js:355
 msgid "boost"
-msgstr ""
+msgstr "加速"
 
 #: ../../script/events.js:623
 msgid "miss"
@@ -751,61 +751,59 @@ msgstr "深草丛的某处射出了一发子弹"
 
 #: ../../script/events/executioner.js:5
 msgid "tripped a motion sensor."
-msgstr ""
+msgstr "动捕器跳闸。"
 
 #: ../../script/events/executioner.js:7
 msgid "mechanical guard"
-msgstr ""
+msgstr "机械守卫"
 
 #: ../../script/events/executioner.js:34
-#, fuzzy
-#| msgid "a pack of lizards rounds the corner."
 msgid "a mobile defence platform trundles around the corner."
-msgstr "一群蜥蜴绕过转角"
+msgstr "一个机动防御平台在拐角处缓慢移动。"
 
 #: ../../script/events/executioner.js:36
 msgid "mechanical quadruped"
-msgstr ""
+msgstr "机械动物"
 
 #: ../../script/events/executioner.js:58
 msgid "a medical drone wheels out of control."
-msgstr ""
+msgstr "一架医疗无人机失控了。"
 
 #: ../../script/events/executioner.js:60
 msgid "broken medic"
-msgstr ""
+msgstr "失控机器"
 
 #: ../../script/events/executioner.js:88
 msgid "one of the defence turrets still works."
-msgstr ""
+msgstr "其中一座防御炮塔仍然运转。"
 
 #: ../../script/events/executioner.js:90
 msgid "defence turret"
-msgstr ""
+msgstr "防御炮塔"
 
 #: ../../script/events/executioner.js:119
 #: ../../script/events/executioner.js:552
 msgid "A Ravaged Battleship"
-msgstr ""
+msgstr "一艘损坏的战列舰"
 
 #: ../../script/events/executioner.js:123
 msgid "the remains of a huge ship are embedded in the earth."
-msgstr ""
+msgstr "巨舰的残骸嵌入大地。"
 
 #: ../../script/events/executioner.js:125
 msgid ""
 "the remains of a massive battleship lie here, like a silent sealed city."
-msgstr ""
+msgstr "一艘巨型战列舰的残骸躺在这里，就像一座沉默的密封城市。"
 
 #: ../../script/events/executioner.js:126
 msgid "it lists to the side in a deep crevasse, cut when it fell from the sky."
-msgstr ""
+msgstr "它倾入一道深深的裂缝，显然是坠落所致。"
 
 #: ../../script/events/executioner.js:127
 msgid ""
 "the hatches are all sealed, but the hull is blown out just above the dirt, "
 "providing an entrance."
-msgstr ""
+msgstr "舱口都是密封的，但船体在地表上方的破损处提供了一个入口。"
 
 #: ../../script/events/executioner.js:131 ../../script/events/setpieces.js:45
 #: ../../script/events/setpieces.js:552 ../../script/events/setpieces.js:609
@@ -818,11 +816,11 @@ msgstr "进入"
 msgid ""
 "the interior of the ship is cold and dark. what little light there is only "
 "accentuates its harsh angles."
-msgstr ""
+msgstr "船的内部又冷又暗。仅有的一点光线只会使它的棱角更加刺眼。"
 
 #: ../../script/events/executioner.js:144
 msgid "the walls hum faintly."
-msgstr ""
+msgstr "墙壁发出微弱的嗡鸣声。"
 
 #: ../../script/events/executioner.js:148
 #: ../../script/events/executioner.js:182
@@ -947,828 +945,757 @@ msgstr "继续深入"
 
 #: ../../script/events/executioner.js:159
 msgid "thick, sticky webbing covers the walls of the corridor."
-msgstr ""
+msgstr "又厚又粘的网覆盖着走廊的墙壁。"
 
 #: ../../script/events/executioner.js:160
 msgid "deeper into the ship, the darkness seems almost to writhe."
-msgstr ""
+msgstr "深处的黑暗似乎在翻腾。"
 
 #: ../../script/events/executioner.js:161
 msgid ""
 "a small knapsack hangs from a cluster of webs, a few feet from the floor."
-msgstr ""
+msgstr "一个小背包悬挂在一簇网上。"
 
 #: ../../script/events/executioner.js:192
 msgid "a huge arthropod lunges from the shadows, its mandibles thrashing."
-msgstr ""
+msgstr "一只巨大的节肢动物从阴影中猛扑而出，上颚扭曲。"
 
 #: ../../script/events/executioner.js:226
 msgid "the webs part, and a grotesque insect lurches forward."
-msgstr ""
+msgstr "蛛网散落，一只奇形怪状的昆虫蹒跚向前。"
 
 #: ../../script/events/executioner.js:260
-#, fuzzy
-#| msgid "a pack of lizards rounds the corner."
 msgid "an operative waits in ambush around the corner."
-msgstr "一群蜥蜴绕过转角"
+msgstr "一名特工在拐角处埋伏等候。"
 
 #: ../../script/events/executioner.js:300
-#, fuzzy
-#| msgid "the remains of an old camp sits just inside the cave."
 msgid "the military has set up a small camp just inside the ship."
-msgstr "洞穴内出现一处老旧营地的遗迹"
+msgstr "军方在船内设立了一个营地。"
 
 #: ../../script/events/executioner.js:301
 msgid "crude attempts have been made to cut into the walls."
-msgstr ""
+msgstr "周遭的墙上留有粗暴的穿凿印记。"
 
 #: ../../script/events/executioner.js:302
 msgid "scraps of copper wire litter the floor."
-msgstr ""
+msgstr "铜线碎片散落在地板上。"
 
 #: ../../script/events/executioner.js:303
 msgid "two bedrolls are wedged into a corner."
-msgstr ""
+msgstr "两个睡袋被塞进了一个角落。"
 
 #: ../../script/events/executioner.js:339
 msgid "a dusty researcher clumsily hides in the shadows."
-msgstr ""
+msgstr "一个满身灰尘的研究人员笨拙地躲在阴影里。"
 
 #: ../../script/events/executioner.js:379
 msgid "debris is stacked in the corridor, forming a low barricade."
-msgstr ""
+msgstr "碎片堆在走廊里，形成了一个低矮的障碍。"
 
 #: ../../script/events/executioner.js:380
-#, fuzzy
-#| msgid "the walls are scorched from an old battle."
 msgid "the walls are scorched and melted."
-msgstr "这些墙壁在一场古老的战争中被烧焦了"
+msgstr "墙壁被烧焦融化了。"
 
 #: ../../script/events/executioner.js:381
 msgid "behind the barricade, a few weapons lay abandoned."
-msgstr ""
+msgstr "在障碍后面，一些武器被遗弃在地上。"
 
 #: ../../script/events/executioner.js:413
 msgid ""
 "the partially devoured remains of several wanderers are piled before a dark "
 "corridor."
-msgstr ""
+msgstr "几个流浪者被部分吞噬的尸体堆在一条黑暗的走廊前。"
 
 #: ../../script/events/executioner.js:414
-#, fuzzy
-#| msgid "scratching noises can be heard from the store room."
 msgid "shuffling noises can be heard from within."
-msgstr "仓库里传出悉悉索索的声音"
+msgstr "里面传来杂乱的脚步声"
 
 #: ../../script/events/executioner.js:442
-#, fuzzy
-#| msgid "snarling beast"
 msgid "ancient beast"
-msgstr "咆哮的野兽"
+msgstr "远古野兽"
 
 #: ../../script/events/executioner.js:465
-#, fuzzy
-#| msgid "a startled beast defends its home"
 msgid "an ancient beast has made these ruins its home."
-msgstr "受到惊吓的野兽正要捍卫它的巢穴"
+msgstr "一只古老的野兽把这些废墟当成了自己的家。"
 
 #: ../../script/events/executioner.js:481
 msgid ""
 "a maintenance panel is embedded in the wall next to a large sealed door."
-msgstr ""
+msgstr "前面是一道巨大的密封门，旁边的墙上嵌有一块维护面板。"
 
 #: ../../script/events/executioner.js:482
 msgid "perhaps the ship’s systems are still operational."
-msgstr ""
+msgstr "也许船上的系统仍在运行。"
 
 #: ../../script/events/executioner.js:486
 msgid "power cycle"
-msgstr ""
+msgstr "开启系统"
 
 #: ../../script/events/executioner.js:497
 msgid "as the lights come online, so too do the defence systems."
-msgstr ""
+msgstr "灯光亮起的同时，防御系统也启动了。"
 
 #: ../../script/events/executioner.js:499
 msgid "automated turret"
-msgstr ""
+msgstr "自动炮塔"
 
 #: ../../script/events/executioner.js:533
 msgid ""
 "beyond the bulkhead is a small antechamber, seemingly untouched by "
 "scavengers."
-msgstr ""
+msgstr "舱壁后是一个小厅，似乎尚未被拾荒者触及。"
 
 #: ../../script/events/executioner.js:534
 msgid "a large hatch grinds open, and the wind rushes in."
-msgstr ""
+msgstr "大舱门徐徐打开，风呼啸而入。"
 
 #: ../../script/events/executioner.js:535
 msgid "a strange device sits on the floor. looks important."
-msgstr ""
+msgstr "地板上放着一个奇怪的装置。看起来很重要。"
 
 #: ../../script/events/executioner.js:543
 msgid "take device and leave"
-msgstr ""
+msgstr "拿起装置离开"
 
 #: ../../script/events/executioner.js:557
 msgid "a large hatch opens into a wide corridor."
-msgstr ""
+msgstr "一个大舱口通向一条宽阔的走廊。"
 
 #: ../../script/events/executioner.js:558
 msgid ""
 "the corridor leads to a bank of elevators, which appear to be functional."
-msgstr ""
+msgstr "走廊通向一排电梯，这些电梯看起来还能用。"
 
 #: ../../script/events/executioner.js:562
-#, fuzzy
-#| msgid "engine:"
 msgid "engineering"
-msgstr "引擎:"
+msgstr "工程区"
 
 #: ../../script/events/executioner.js:569
-#, fuzzy
-#| msgid "medicine"
 msgid "medical"
-msgstr "药剂"
+msgstr "医护区"
 
 #: ../../script/events/executioner.js:576
-#, fuzzy
-#| msgid "martial artist"
 msgid "martial"
-msgstr "武斗家"
+msgstr "军事区"
 
 #: ../../script/events/executioner.js:583
 msgid "command deck"
-msgstr ""
+msgstr "管理区"
 
 #: ../../script/events/executioner.js:599
 msgid "Engineering Wing"
-msgstr ""
+msgstr "工程区"
 
 #: ../../script/events/executioner.js:604
 msgid ""
 "elevator doors open to a blasted corridor. debris covers the floor, piled "
 "into makeshift defences."
-msgstr ""
+msgstr "电梯门通向一条已被炸毁的走廊。碎片覆盖了地板，堆成了临时的防御工事。"
 
 #: ../../script/events/executioner.js:605
 msgid "emergency lighting flickers."
-msgstr ""
+msgstr "应急灯摇曳闪烁"
 
 #: ../../script/events/executioner.js:621
 msgid ""
 "an automated assembly line performs its empty routines, long since deprived "
 "of materials."
-msgstr ""
+msgstr "一条自动化装配线兀自执行它的程序，上面早就没有材料了。"
 
 #: ../../script/events/executioner.js:622
-#, fuzzy
-#| msgid ""
-#| "an old case is wedged behind a rock, covered in a thick layer of dust."
 msgid "its final works lie forgotten, covered by a thin layer of dust."
-msgstr "岩石下嵌着一个旧盒子，上面覆满一层薄灰"
+msgstr "流水线的最终产品被遗忘在角落，蒙尘已久。"
 
 #: ../../script/events/executioner.js:649
 msgid "assembly arms spin wildly out of control."
-msgstr ""
+msgstr "装配臂失控地旋转。"
 
 #: ../../script/events/executioner.js:651
 msgid "unruly welder"
-msgstr ""
+msgstr "失控的机械臂"
 
 #: ../../script/events/executioner.js:685
 msgid "assembly arms spark and jitter."
-msgstr ""
+msgstr "装配臂抖动着，火花四溅。"
 
 #: ../../script/events/executioner.js:686
 msgid "a cacophony of decrepit machinery fills the room."
-msgstr ""
+msgstr "房间里充满了破旧机器的嘈杂声。"
 
 #: ../../script/events/executioner.js:732
 msgid ""
 "must have been the engine room, once. the massive machines now stand inert, "
 "twisted and scorched by explosions."
-msgstr ""
+msgstr "这里一定曾是引擎室。这些巨大的机器扭曲地站立着，早因爆炸而被烧焦了。"
 
 #: ../../script/events/executioner.js:733
 msgid "the destruction is uniform and precise."
-msgstr ""
+msgstr "这些破坏统一且精确。"
 
 #: ../../script/events/executioner.js:734
 msgid "bits of them can be scavenged."
-msgstr ""
+msgstr "机器的一些部分还可以利用。"
 
 #: ../../script/events/executioner.js:771
 msgid "none of the ship's engines escaped the destruction."
-msgstr ""
+msgstr "船上的发动机无一幸免。"
 
 #: ../../script/events/executioner.js:772
 msgid "it's no mystery why she no longer flies."
-msgstr ""
+msgstr "其坠落的原因不言自明。"
 
 #: ../../script/events/executioner.js:788
 msgid "sparks cascade from a reactivated power junction, and catch."
-msgstr ""
+msgstr "火花突然从一个重新激活的电源接头上喷涌而出，起火了。"
 
 #: ../../script/events/executioner.js:789
 msgid "the flames fill the corridor."
-msgstr ""
+msgstr "火焰充满了走廊。"
 
 #: ../../script/events/executioner.js:793
 msgid "extinguish"
-msgstr ""
+msgstr "用水扑灭"
 
 #: ../../script/events/executioner.js:798
 msgid "rush through"
-msgstr ""
+msgstr "全力逃离"
 
 #: ../../script/events/executioner.js:821
 msgid "rows of inert security robots hang suspended from the ceiling."
-msgstr ""
+msgstr "一排排安全机器人悬挂在天花板上。"
 
 #: ../../script/events/executioner.js:822
 msgid "wires run overhead, corroded and useless."
-msgstr ""
+msgstr "电线交叉着分布在上方，已因腐蚀而毫无用处"
 
 #: ../../script/events/executioner.js:837
 msgid "more signs of past combat down the hall. guard post is ransacked."
-msgstr ""
+msgstr "大厅里有更多过去战斗的痕迹。岗哨已被洗劫一空。"
 
 #: ../../script/events/executioner.js:838
-#, fuzzy
-#| msgid "there's not much, but some useful things can still be found."
 msgid "still, some things can be found."
-msgstr "不是很多，但仍然能找到一些有用的"
+msgstr "还能找到一些东西。"
 
 #: ../../script/events/executioner.js:876
 msgid ""
 "marks on the door read 'research and development.' everything seems mostly "
 "untouched, but dead."
-msgstr ""
+msgstr "门上的标记写着“研究与开发”。一切似乎基本上都没有动过，但都已停止运作。"
 
 #: ../../script/events/executioner.js:877
 msgid "one machine thrums with power, and might still work."
-msgstr ""
+msgstr "一台机器通电运转，可能还能工作。"
 
 #: ../../script/events/executioner.js:881
 #: ../../script/events/executioner.js:1496
-#, fuzzy
-#| msgid "use meds"
 msgid "use machine"
-msgstr "服药"
+msgstr "使用"
 
 #: ../../script/events/executioner.js:900
 msgid ""
 "step inside, and the machine whirs. muscle and bone reknit. good as new."
-msgstr ""
+msgstr "走进其中，机器嗡嗡作响。你的肌肉和骨骼被重塑，完好如初。"
 
 #: ../../script/events/executioner.js:930
 msgid ""
 "the machines here look unfinished, abandoned by their creator. wires and "
 "other scrap are scattered about the work benches."
 msgstr ""
+"这里的机器看起来尚未完成，被它们的制作者抛弃了。电线和其他废料散落在工作台"
+"上。"
 
 #: ../../script/events/executioner.js:945
 msgid "experimental plans cover one wall, held by an unseen force."
-msgstr ""
+msgstr "实验计划覆盖了一整面墙，由一股看不见的力量支撑着。"
 
 #: ../../script/events/executioner.js:946
 msgid "this one looks useful."
-msgstr ""
+msgstr "这张图纸似乎有用"
 
 #: ../../script/events/executioner.js:968
 msgid "clattering metal and old servos. something is coming..."
-msgstr ""
+msgstr "咔嗒作响的金属和陈旧的伺服器。有什么东西正在接近。。。"
 
 #: ../../script/events/executioner.js:972
-#, fuzzy
-#| msgid "weight"
 msgid "fight"
-msgstr "负重"
+msgstr "准备战斗"
 
 #: ../../script/events/executioner.js:979
 msgid "an unfinished automaton whirs to life."
-msgstr ""
+msgstr "一台未完成的原型机嗡嗡作响。"
 
 #: ../../script/events/executioner.js:981
 msgid "unstable prototype"
-msgstr ""
+msgstr "不稳定的原型机"
 
 #: ../../script/events/executioner.js:1022
 msgid "at the back of the workshop, elevator doors twitch and buzz."
-msgstr ""
+msgstr "在车间的后面，电梯门抽动着打开，发出刺耳的声音。"
 
 #: ../../script/events/executioner.js:1023
-#, fuzzy
-#| msgid "looks like a camp of sorts up ahead."
 msgid "looks like a way out of here."
-msgstr "看起来前面像是一片简陋的营地"
+msgstr "看起来可以离开了"
 
 #: ../../script/events/executioner.js:1039
-#, fuzzy
-#| msgid "martial artist"
 msgid "Martial Wing"
-msgstr "武斗家"
+msgstr "军事区"
 
 #: ../../script/events/executioner.js:1044
 msgid ""
 "metal grinds, and the elevator doors open halfway. beyond is a brightly lit "
 "battlefield. remains litter the corridor, undisturbed by scavengers."
 msgstr ""
+"金属研磨，电梯门打开一半。远处是一片灯火通明的战场。走廊里到处都是垃圾，没有"
+"受到拾荒者的干扰。"
 
 #: ../../script/events/executioner.js:1045
 msgid "looks like they tried to barricade the elevators."
-msgstr ""
+msgstr "看起来他们曾试图封锁电梯。"
 
 #: ../../script/events/executioner.js:1060
 msgid "further along, the corridor branches."
-msgstr ""
+msgstr "前方，走廊分出两条路。"
 
 #: ../../script/events/executioner.js:1061
 msgid "the door to the left is sealed and refuses to open."
-msgstr ""
+msgstr "左边的门被封住了，难以打开。"
 
 #: ../../script/events/executioner.js:1065
 msgid "blow it down"
-msgstr ""
+msgstr "炸开"
 
 #: ../../script/events/executioner.js:1070
-#, fuzzy
-#| msgid "continue"
 msgid "continue right"
-msgstr "继续深入"
+msgstr "去往右侧"
 
 #: ../../script/events/executioner.js:1082
 msgid "the blast throws the door inwards."
-msgstr ""
+msgstr "爆炸将大门推倒"
 
 #: ../../script/events/executioner.js:1083
 msgid ""
 "through the bulkhead is a large room, walls lined with weapon racks. "
 "fighting seems to have passed it by."
-msgstr ""
+msgstr "门后是一个大房间，墙上摆满了武器架。战斗似乎已经过去了。"
 
 #: ../../script/events/executioner.js:1140
 msgid "another door at the end of the hall, sealed from this side."
-msgstr ""
+msgstr "大厅尽头的另一扇门，已经被封起来了。"
 
 #: ../../script/events/executioner.js:1141
-#, fuzzy
-#| msgid "a soldier, alerted, opens fire."
 msgid "should be able to open it."
-msgstr "一个士兵拉响了警报，然后开火了"
+msgstr "应该还能能打开"
 
 #: ../../script/events/executioner.js:1187
-#, fuzzy
-#| msgid "the forest is silent."
 msgid "the corridor is eerily silent."
-msgstr "森林归于静谧"
+msgstr "走廊里出奇地寂静。"
 
 #: ../../script/events/executioner.js:1202
 msgid "crew cabins flank the hall, devoid of life."
-msgstr ""
+msgstr "船员舱位于大厅的两侧，毫无生气。"
 
 #: ../../script/events/executioner.js:1203
-#, fuzzy
-#| msgid "a few items are scattered on the ground."
 msgid "a few useful items can be scavenged."
-msgstr "地上散落着少许物品"
+msgstr "可以找到一些有用的物品。"
 
 #: ../../script/events/executioner.js:1231
 msgid "ruined defence turrets flank the corridor."
-msgstr ""
+msgstr "走廊两侧都是被毁坏的防御炮塔。"
 
 #: ../../script/events/executioner.js:1232
 msgid "could put the scrap to good use."
-msgstr ""
+msgstr "不少废料可供利用"
 
 #: ../../script/events/executioner.js:1269
 msgid "small sensors in the walls still look to be operational."
-msgstr ""
+msgstr "墙上的小型传感器看起来仍然可以工作。"
 
 #: ../../script/events/executioner.js:1270
 msgid "easily avoided."
-msgstr ""
+msgstr "检测很容易避开。"
 
 #: ../../script/events/executioner.js:1301
 msgid "large barricades bisect the corridor, scorched by weapons fire."
-msgstr ""
+msgstr "巨大的障碍物把走廊一分为二，被武器的火力烧焦了。"
 
 #: ../../script/events/executioner.js:1302
-#, fuzzy
-#| msgid "charred bodies litter the ground."
 msgid "bodies litter the ground on either side."
-msgstr "遍地焦尸"
+msgstr "尸体散落在地上。"
 
 #: ../../script/events/executioner.js:1317
 msgid "documents are scattered down the hall, most charred and curled."
-msgstr ""
+msgstr "文件散落在大厅里，大部分因烧焦而卷曲。"
 
 #: ../../script/events/executioner.js:1318
 msgid "this one looks interesting."
-msgstr ""
+msgstr "这个看起来很有趣"
 
 #: ../../script/events/executioner.js:1341
-#, fuzzy
-#| msgid "a beast charges out of a ransacked classroom."
 msgid "the next door leads to a ransacked planning room."
-msgstr "一头巨兽冲出教室"
+msgstr "隔壁通向一间被洗劫一空的规划室。"
 
 #: ../../script/events/executioner.js:1342
 msgid "maps of the surface can still be found amongst the debris."
-msgstr ""
+msgstr "在残骸中仍然可以找到一些地图。"
 
 #: ../../script/events/executioner.js:1346
-#, fuzzy
-#| msgid "scavenger"
 msgid "scavenge maps"
-msgstr "拾荒者"
+msgstr "寻找地图"
 
 #: ../../script/events/executioner.js:1366
 msgid "drew some attention with all that noise."
-msgstr ""
+msgstr "搜寻的声音引来了一些注意"
 
 #: ../../script/events/executioner.js:1382
 msgid "slipped past an automated sentry."
-msgstr ""
+msgstr "溜过一个自动岗哨。"
 
 #: ../../script/events/executioner.js:1383
 msgid "if only they'd been destroyed along with everything else."
-msgstr ""
+msgstr "如果他们和其他的一起被摧毁就好了"
 
 #: ../../script/events/executioner.js:1398
 msgid "ran straight into another one."
-msgstr ""
+msgstr "撞上了另一个"
 
 #: ../../script/events/executioner.js:1415
 msgid ""
 "the corridor passes through a security checkpoint. the defences are blown "
 "apart, ragged edges scorched by laser fire."
-msgstr ""
+msgstr "走廊穿过一个安全检查站。防御工事已被炸毁，粗糙的边缘被激光灼损。"
 
 #: ../../script/events/executioner.js:1416
 msgid "past the checkpoint, banks of containment cells can be seen."
-msgstr ""
+msgstr "经过检查站，可以看到一排排的抑制牢房。"
 
 #: ../../script/events/executioner.js:1431
-#, fuzzy
-#| msgid "the streets are empty."
 msgid "the cells are all empty."
-msgstr "街道空空如也"
+msgstr "这些牢房空空如也"
 
 #: ../../script/events/executioner.js:1432
 msgid ""
 "power cables running across the ceiling are split in several places, "
 "sparking occasionally."
-msgstr ""
+msgstr "天花板上的电缆多处断裂，时不时会冒出火花。"
 
 #: ../../script/events/executioner.js:1447
 msgid "the guards died at their posts, shot through with superheated plasma."
-msgstr ""
+msgstr "警卫们被极热的等离子体射穿，死在了自己的岗位上。"
 
 #: ../../script/events/executioner.js:1448
 msgid "their weapons lie on the floor beside them."
-msgstr ""
+msgstr "他们的武器躺在旁边的地板上。"
 
 #: ../../script/events/executioner.js:1491
 msgid ""
 "the corridor opens onto a vast training complex, obstacles and features "
 "blackened by real combat."
-msgstr ""
+msgstr "走廊通向一个巨大的训练场地，靶子和栅栏被实战弄得黑漆漆的。"
 
 #: ../../script/events/executioner.js:1492
 msgid "a regenerative machine hums uncannily by one of the courses."
-msgstr ""
+msgstr "一台再生机器发出了异常的嗡嗡声。"
 
 #: ../../script/events/executioner.js:1515
 msgid "motion from the centre of the yard."
-msgstr ""
+msgstr "走到场地中央。"
 
 #: ../../script/events/executioner.js:1516
 msgid ""
 "a sparring automaton, still fully function and crusted with timeworn blood, "
 "lunges forward."
-msgstr ""
+msgstr "一台仍然功能齐全、沾满了陈旧血液的拳击机器人冲了过来。"
 
 #: ../../script/events/executioner.js:1520
 msgid "engage"
-msgstr ""
+msgstr "迎战"
 
 #: ../../script/events/executioner.js:1527
-#, fuzzy
-#| msgid "a madman attacks, screeching."
 msgid "the machine attacks, blades whirling."
-msgstr "一个男人疯狂地尖叫着发起了攻击"
+msgstr "机器攻击，刀片转动。"
 
 #: ../../script/events/executioner.js:1529
 msgid "murderous robot"
-msgstr ""
+msgstr "杀人机器"
 
 #: ../../script/events/executioner.js:1565
-#, fuzzy
-#| msgid "a few items are scattered on the ground."
 msgid "the ruins of the sparring machine clatter to the ground."
-msgstr "地上散落着少许物品"
+msgstr "机器的零件哗啦一声散落到地上。"
 
 #: ../../script/events/executioner.js:1566
 msgid "picked this deck clean."
-msgstr ""
+msgstr "这个区域没什么其他的了。"
 
 #: ../../script/events/executioner.js:1582
-#, fuzzy
-#| msgid "medicine"
 msgid "Medical Wing"
-msgstr "药剂"
+msgstr "医护区"
 
 #: ../../script/events/executioner.js:1587
 msgid "elevator doors open to an empty corridor."
-msgstr ""
+msgstr "电梯门通向一条空走廊。"
 
 #: ../../script/events/executioner.js:1588
 msgid ""
 "a few dusty corpses can be seen further down, but this deck appears to have "
 "been spared most of the combat."
 msgstr ""
+"在更远的地方可以看到几具积满灰尘的尸体，但此区域似乎没有受到大多数战斗的波"
+"及。"
 
 #: ../../script/events/executioner.js:1619
 msgid ""
 "past the checkpoint, the corridor is undamaged save for sporadic graffiti."
-msgstr ""
+msgstr "通过检查站，走廊除了除了零星的涂鸦外完好无损。"
 
 #: ../../script/events/executioner.js:1620
-#, fuzzy
-#| msgid "there is nothing else here."
 msgid "there was no fighting here."
-msgstr "这里没别的了"
+msgstr "毫无战斗的痕迹"
 
 #: ../../script/events/executioner.js:1650
 msgid ""
 "automated guardians still stalk the halls, unaware that their masters have "
 "long gone."
-msgstr ""
+msgstr "守卫机器人仍然在大厅里徘徊，不知道他们的主人早已离去。"
 
 #: ../../script/events/executioner.js:1651
 msgid "clumsy machines, and easily avoided."
-msgstr ""
+msgstr "笨拙的机器人，很容易避开。"
 
 #: ../../script/events/executioner.js:1666
 msgid "medical gurneys are fixed to grooves running down the corridor walls."
-msgstr ""
+msgstr "医疗轮床固定在走廊墙上的凹槽上。"
 
 #: ../../script/events/executioner.js:1667
 msgid "the automated patient transport system now sits motionless."
-msgstr ""
+msgstr "病人自动输送系统现在静止不动。"
 
 #: ../../script/events/executioner.js:1698
-#, fuzzy
-#| msgid "bring your friends."
 msgid "it had friends."
-msgstr "分享给你的好友。"
+msgstr "它有同伙。"
 
 #: ../../script/events/executioner.js:1714
 msgid "more medical robots stand frozen, attached by a network of wires."
-msgstr ""
+msgstr "更多的医疗机器人被电线网连接在一起，静止着。"
 
 #: ../../script/events/executioner.js:1715
 msgid "they take no notice of the intrusion."
-msgstr ""
+msgstr "他们没有注意到闯入者"
 
 #: ../../script/events/executioner.js:1730
 msgid ""
 "weapons are strewn about the medical dispatch bay. must have been used as a "
 "muster point."
-msgstr ""
+msgstr "医疗调度室里到处都是武器。一定曾被用作临时集合点。"
 
 #: ../../script/events/executioner.js:1731
 msgid "more strange graffiti adorns the walls."
-msgstr ""
+msgstr "墙上有更多奇怪的涂鸦。"
 
 #: ../../script/events/executioner.js:1759
 msgid ""
 "this ward has been converted to a makeshift strategy room, maps scrawled "
 "hastily on any flat surface."
 msgstr ""
+"这间病房已经被改造成了一个临时的指挥室，任何平坦的表面上都有匆忙绘制的地图。"
 
 #: ../../script/events/executioner.js:1760
 msgid "a secure locker is set into one wall."
-msgstr ""
+msgstr "一面墙上放着一个保险柜。"
 
 #: ../../script/events/executioner.js:1764
 msgid "force locker"
-msgstr ""
+msgstr "试图打开"
 
 #: ../../script/events/executioner.js:1779
-#, fuzzy
-#| msgid "the sickness spreads through the village."
 msgid "hinges rusted through. no challenge."
-msgstr "疾病在村子中蔓延"
+msgstr "铁链已经生锈。撬开轻而易举。"
 
 #: ../../script/events/executioner.js:1806
 msgid "the noise draws attention."
-msgstr ""
+msgstr "操作的声音引起了注意。"
 
 #: ../../script/events/executioner.js:1822
 msgid "better to move without drawing attention."
-msgstr ""
+msgstr "移动时最好不要引起注意。"
 
 #: ../../script/events/executioner.js:1823
-#, fuzzy
-#| msgid "scratching noises can be heard from the store room."
 msgid "noises can be heard from the corridor outside."
-msgstr "仓库里传出悉悉索索的声音"
+msgstr "外面的走廊里可以听到噪音。"
 
 #: ../../script/events/executioner.js:1854
-#, fuzzy
-#| msgid "something's in the store room"
 msgid "something's wrong with this robot."
-msgstr "不速之客闯入了仓库"
+msgstr "这个机器人出错了。"
 
 #: ../../script/events/executioner.js:1856
 msgid "unstable automaton"
-msgstr ""
+msgstr "不稳定的自动机"
 
 #: ../../script/events/executioner.js:1886
 msgid "another checkpoint ahead, fitted with heavy doors."
-msgstr ""
+msgstr "前面还有一个检查站，厚厚的大门挡在前面。"
 
 #: ../../script/events/executioner.js:1887
-#, fuzzy
-#| msgid "the debris is denser here."
 msgid "security is even tighter here."
-msgstr "这里的残骸更多了"
+msgstr "这里的安保更加严密。"
 
 #: ../../script/events/executioner.js:1917
 msgid "slipped through unnoticed."
-msgstr ""
+msgstr "小心翼翼地溜了过去。"
 
 #: ../../script/events/executioner.js:1918
 msgid ""
 "air whistles as the doors open. this section must have lower pressure than "
 "the rest of the ship."
 msgstr ""
+"门一开，顿时空气发出了尖锐的鸣叫声。这个区域的气压一定比船上其他区域低。"
 
 #: ../../script/events/executioner.js:1949
 msgid ""
 "the air is cooler here. low cabinets ring the room, doors dusted with frost."
-msgstr ""
+msgstr "这里的空气比较凉爽。低矮的柜子环绕在房间四周，门上结满了霜。"
 
 #: ../../script/events/executioner.js:1950
 msgid "samples of something biological inside."
-msgstr ""
+msgstr "里面有生物样本。"
 
 #: ../../script/events/executioner.js:1987
 msgid "security drones still patrol the hallways."
-msgstr ""
+msgstr "安保无人机仍在走廊里巡逻。"
 
 #: ../../script/events/executioner.js:1988
 msgid "predictable paths."
-msgstr ""
+msgstr "它的路径很好预测"
 
 #: ../../script/events/executioner.js:2019
 msgid ""
 "surgical tools are scattered on the floor, near what appears the be the "
 "remains of a fire."
-msgstr ""
+msgstr "手术工具散落在地板上，似乎曾经历一场大火。"
 
 #: ../../script/events/executioner.js:2020
-#, fuzzy
-#| msgid "strange bird"
 msgid "strange."
-msgstr "怪鸟"
+msgstr "很奇怪。"
 
 #: ../../script/events/executioner.js:2050
 msgid ""
 "the air in this room has a metallic tinge. floor is covered in dark powder."
-msgstr ""
+msgstr "这个房间里的空气有一股金属味。地板上满是深色粉末。"
 
 #: ../../script/events/executioner.js:2051
 msgid "some completed explosives in the corner."
-msgstr ""
+msgstr "一些已完成的炸药堆在角落。"
 
 #: ../../script/events/executioner.js:2089
 msgid "containment cells arranged at the back of the room, all open."
-msgstr ""
+msgstr "抑制牢房布置在房间后面，门全部敞开着。"
 
 #: ../../script/events/executioner.js:2090
-#, fuzzy
-#| msgid "something's in there."
 msgid "something moving up ahead."
-msgstr "那里有什么东西"
+msgstr "前方有东西在移动。那里有什么东西"
 
 #: ../../script/events/executioner.js:2105
-#, fuzzy
-#| msgid "a startled beast defends its home"
 msgid "a mutated beast leaps from its cell."
-msgstr "受到惊吓的野兽正要捍卫它的巢穴"
+msgstr "一只变异的野兽从抑制牢房里跳了出来。"
 
 #: ../../script/events/executioner.js:2107
 msgid "malformed experiment"
-msgstr ""
+msgstr "畸形实验"
 
 #: ../../script/events/executioner.js:2138
 msgid "the creature's tortured breathing ceases."
-msgstr ""
+msgstr "这个生物痛苦的呼吸停止了。"
 
 #: ../../script/events/executioner.js:2139
-#, fuzzy
-#| msgid "not much here."
 msgid "nothing more here."
-msgstr "这里没多少东西"
+msgstr "这里没东西了。"
 
 #: ../../script/events/executioner.js:2155
 msgid "Command Deck"
-msgstr ""
+msgstr "管理区"
 
 #: ../../script/events/executioner.js:2160
 msgid ""
 "the path to the command bridge is wide, walls adorned with decorative "
 "shields."
-msgstr ""
+msgstr "通往管理区的桥很宽，四周的墙上布满了装饰性的盾牌。"
 
 #: ../../script/events/executioner.js:2161
 msgid "fighting hadn't reached here, it seems."
-msgstr ""
+msgstr "战火显然还没波及到这里。"
 
 #: ../../script/events/executioner.js:2192
 msgid "detour through the officer's lounge."
-msgstr ""
+msgstr "绕过军官休息室。"
 
 #: ../../script/events/executioner.js:2193
-#, fuzzy
-#| msgid "there is nothing else here."
 msgid "might be something useful here."
-msgstr "这里没别的了"
+msgstr "也许这里有什么有用的东西。"
 
 #: ../../script/events/executioner.js:2208
 msgid "small weapons cache in a cabinet."
-msgstr ""
+msgstr "柜子里藏着小武器。"
 
 #: ../../script/events/executioner.js:2209
 msgid "lucky."
-msgstr ""
+msgstr "运气不错。"
 
 #: ../../script/events/executioner.js:2236
 msgid "found some medical supplies in a discarded bag."
-msgstr ""
+msgstr "一些医疗用品藏在废弃的袋子里。"
 
 #: ../../script/events/executioner.js:2258
 msgid ""
 "the command deck is empty, save for a squat figure sitting motionless in the "
 "centre of the room."
-msgstr ""
+msgstr "管理室十分空荡，只有一个身影一动不动地坐在房间中央"
 
 #: ../../script/events/executioner.js:2259
 msgid "in a flash, the figure is standing."
-msgstr ""
+msgstr "突然，那个身影站了起来。"
 
 #: ../../script/events/executioner.js:2263
 msgid "approach"
-msgstr ""
+msgstr "靠近"
 
 #: ../../script/events/executioner.js:2274
 msgid ""
 "wanderer form, but not quite flesh. not quite metal either. a crystal set "
 "into its chest pulses with light."
-msgstr ""
+msgstr "身影是一个流浪者，但它的身体既非血肉也非金属。他胸前的水晶闪烁着光芒。"
 
 #: ../../script/events/executioner.js:2275
 msgid "it says it saw the rebellion coming. said it made arrangements."
-msgstr ""
+msgstr "它说它看到了叛乱的到来。它说它已作出了安排。"
 
 #: ../../script/events/executioner.js:2276
 msgid "says it can't die."
-msgstr ""
+msgstr "它说它不会消亡。"
 
 #: ../../script/events/executioner.js:2280
 msgid "observe"
-msgstr ""
+msgstr "观察"
 
 #: ../../script/events/executioner.js:2287
 msgid "the immortal wanderer attacks."
-msgstr ""
+msgstr "不朽的流浪者开始攻击。"
 
 #: ../../script/events/executioner.js:2289
 msgid "immortal wanderer"
-msgstr ""
+msgstr "不朽的流浪者"
 
 #: ../../script/events/executioner.js:2327
 msgid ""
 "the crystal pulses brightly, then goes dark. the assailant shimmers as its "
 "shape becomes less defined."
-msgstr ""
+msgstr "水晶发出了一道刺眼的脉冲，然后逐渐灰暗。流浪者的形状逐渐模糊。"
 
 #: ../../script/events/executioner.js:2328
-#, fuzzy
-#| msgid "the night is silent."
 msgid "then it is gone."
-msgstr "黑夜重归静谧"
+msgstr "随后消逝了。"
 
 #: ../../script/events/executioner.js:2329
-#, fuzzy
-#| msgid "time to get out of this place. won't be coming back."
 msgid "time to get out of here."
-msgstr "是时候离开这里了。不再回头"
+msgstr "是时候离开这里了。"
 
 #: ../../script/events/global.js:6
 msgid "The Thief"
@@ -1824,24 +1751,24 @@ msgid ""
 "a strange thrumming, pounding and crashing. visions of people and places, of "
 "a huge machine and twisting curves."
 msgstr ""
+"一阵奇怪的嗡鸣声、敲击声和碰撞声。人们和地方的景象，一台巨大的机器和扭曲的曲"
+"线。"
 
 #: ../../script/events/marketing.js:15
 msgid "inviting. it would be so easy to give in, completely."
-msgstr ""
+msgstr "很诱人。很容易被完全屈服"
 
 #: ../../script/events/marketing.js:17
 msgid "a strange thrumming, pounding and crashing. and then gone."
-msgstr ""
+msgstr "一阵奇怪的嗡鸣声、敲击声和碰撞声。随即消失了。"
 
 #: ../../script/events/marketing.js:21
-#, fuzzy
-#| msgid "give 50"
 msgid "give in"
-msgstr "给50"
+msgstr "前往该网页"
 
 #: ../../script/events/marketing.js:28 ../../script/events/outside.js:116
 msgid "ignore it"
-msgstr "放任不管"
+msgstr "忽略"
 
 #: ../../script/events/outside.js:6
 msgid "A Ruined Trap"
@@ -3417,100 +3344,96 @@ msgstr "是时候采摘它们了"
 
 #: ../../script/fabricator.js:6
 msgid "Fabricator"
-msgstr ""
+msgstr "外星科技制作器"
 
 #: ../../script/fabricator.js:9
 msgid "energy blade"
-msgstr "能量剑"
+msgstr "粒子刀"
 
 #: ../../script/fabricator.js:11
 msgid "the blade hums, charged particles sparking and fizzing."
-msgstr "刀片发出嗡嗡声，带电粒子发出火花和嘶嘶声"
+msgstr "刀片嗡嗡作响，带电粒子发出火花和嘶嘶声"
 
 #: ../../script/fabricator.js:17
 msgid "fluid recycler"
-msgstr ""
+msgstr "流体循环器"
 
 #: ../../script/fabricator.js:20
 msgid "water out, water in. waste not, want not."
-msgstr ""
+msgstr "水流进，水流出。没有浪费，不再口渴"
 
 #: ../../script/fabricator.js:26
 msgid "cargo drone"
-msgstr ""
+msgstr "货运无人机"
 
 #: ../../script/fabricator.js:29
 msgid "the workhorse of the wanderer fleet."
-msgstr ""
+msgstr "流浪者舰队的运输主力"
 
 #: ../../script/fabricator.js:35
-#, fuzzy
-#| msgid "i armour"
 msgid "kinetic armour"
-msgstr "铁甲"
+msgstr "动能装甲"
 
 #: ../../script/fabricator.js:39
 msgid "wanderer soldiers succeed by subverting the enemy's rage."
-msgstr ""
+msgstr "流浪者士兵平息敌人怒火的工具"
 
 #: ../../script/fabricator.js:45
 msgid "disruptor"
-msgstr ""
+msgstr "干扰器"
 
 #: ../../script/fabricator.js:48
 msgid "somtimes it is best not to fight."
-msgstr ""
+msgstr "有时避免战斗是最好的"
 
 #: ../../script/fabricator.js:54
 msgid "hypo"
-msgstr ""
+msgstr "恢复液"
 
 #: ../../script/fabricator.js:57
 msgid "a handful of hypos. life in a vial."
-msgstr ""
+msgstr "一把液体，存于瓶内"
 
 #: ../../script/fabricator.js:64
 msgid "stim"
-msgstr ""
+msgstr "兴奋剂"
 
 #: ../../script/fabricator.js:67
 msgid "sometimes it is best to fight without restraint."
-msgstr ""
+msgstr "有时最好是不受约束地战斗"
 
 #: ../../script/fabricator.js:73
-#, fuzzy
-#| msgid "laser rifle"
 msgid "plasma rifle"
-msgstr "激光步枪"
+msgstr "离子步枪"
 
 #: ../../script/fabricator.js:76
 msgid "the peak of wanderer weapons technology, sleek and deadly."
-msgstr ""
+msgstr "流浪者武器技术的巅峰，炫丽且致命"
 
 #: ../../script/fabricator.js:82
 msgid "glow stone"
-msgstr ""
+msgstr "发光石"
 
 #: ../../script/fabricator.js:85
 msgid "a smooth, perfect sphere. its light is inextinguishable."
-msgstr ""
+msgstr "一个光滑、完美的球体。它的光芒是永不熄灭的"
 
 #: ../../script/fabricator.js:99 ../../script/fabricator.js:136
 msgid "A Whirring Fabricator"
-msgstr "嗡嗡作响的制造机"
+msgstr "嗡鸣车间"
 
 #: ../../script/fabricator.js:126
 msgid ""
 "the familiar hum of wanderer machinery coming to life. finally, real tools."
-msgstr ""
+msgstr "熟悉的流浪者机器的嗡嗡声。是时候制作一些真正的工具了"
 
 #: ../../script/fabricator.js:144
 msgid "fabricate:"
-msgstr "制造："
+msgstr "制作器："
 
 #: ../../script/fabricator.js:196
 msgid "blueprints"
-msgstr ""
+msgstr "蓝图"
 
 #: ../../script/localization.js:4
 msgid "saved."
@@ -3873,10 +3796,8 @@ msgid "the compass points "
 msgstr "罗盘指向:"
 
 #: ../../script/path.js:106
-#, fuzzy
-#| msgid "perks:"
 msgid "perks"
-msgstr "能力:"
+msgstr "能力："
 
 #: ../../script/path.js:136
 msgid "none"
@@ -3884,7 +3805,7 @@ msgstr "空"
 
 #: ../../script/path.js:138
 msgid "kinetic"
-msgstr ""
+msgstr "动能"
 
 #: ../../script/path.js:148
 msgid "armour"
@@ -3908,7 +3829,7 @@ msgstr "步枪"
 
 #: ../../script/path.js:175
 msgid "emits a soft red glow"
-msgstr ""
+msgstr "散发着柔和的红光"
 
 #: ../../script/path.js:243 ../../script/world.js:325
 msgid "free {0}/{1}"
@@ -4451,17 +4372,15 @@ msgstr "牵绊"
 
 #: ../../script/world.js:105
 msgid "disintigrate"
-msgstr ""
+msgstr "裂解"
 
 #: ../../script/world.js:112
 msgid "slice"
-msgstr ""
+msgstr "横削"
 
 #: ../../script/world.js:118
-#, fuzzy
-#| msgid "stunned"
 msgid "stun"
-msgstr "惊吓"
+msgstr "干扰"
 
 #: ../../script/world.js:139
 msgid "An&nbsp;Outpost"
@@ -4512,10 +4431,8 @@ msgid "A&nbsp;Murky&nbsp;Swamp"
 msgstr "迷雾沼泽"
 
 #: ../../script/world.js:151
-#, fuzzy
-#| msgid "A&nbsp;Crashed&nbsp;Starship"
 msgid "A&nbsp;Ravaged&nbsp;Battleship"
-msgstr "坠毁星舰"
+msgstr "坠毁的战列舰"
 
 #: ../../script/world.js:155
 msgid "A&nbsp;Destroyed&nbsp;Village"
@@ -4592,7 +4509,7 @@ msgstr "尘土中长出了结瘤的树墙，枝干在头顶缠绕成骨骼般的
 
 #: ../../script/world.js:891
 msgid "Wanderer"
-msgstr "漫游者"
+msgstr "流浪者"
 
 #: ../../script/world.js:896
 msgid "The&nbsp;Village"
@@ -4607,10 +4524,35 @@ msgid ""
 "builder knows the strange device when she sees it. takes it for herself real "
 "quick. doesn’t ask where it came from."
 msgstr ""
+"建造者一看到这个奇怪的装置就明白了。她快速地把它拿走。没有问它是从哪来的。"
 
 #: ../../script/world.js:1099
 msgid "A Barren World"
 msgstr "荒芜世界"
 
+#: ../../script/events/executioner.js:2311
+msgid "fleet beacon"
+msgstr "舰队信标"
+
+#: ../../script/fabricator.js:81
+msgid "glowstone"
+msgstr "发光石"
+
 #~ msgid "use with laser rifle"
 #~ msgstr "激光步枪"
+
+#: ../../script/space.js:469
+msgid "the beacon pulses gently as the ship glides through space.<br>coordinates are locked. nothing to do but wait."
+msgstr "当飞船在太空中飞行时，信标发出柔和的脉冲<br>坐标已被锁定。剩下的只有等待。
+
+#: ../../script/space.js:477
+msgid "the beacon glows a solid blue, and then goes dim. the ship slows.<br>gradually, the vast wanderer homefleet comes into view.<br>massive worldships drift unnaturally through clouds of debris, scarred and dead."
+msgstr "信标发出一阵纯蓝的光芒，随后黯淡了。飞船慢了下来<br>渐渐地，浩浩荡荡的流浪者家园舰队映入眼帘<br>巨大的母舰不自然地在碎片云中漂过，伤痕累累，死气沉沉。"
+
+#: ../../script/space.js:485
+msgid "the air is running out."
+msgstr "空气快用完了。"
+
+#: ../../script/space.js:493
+msgid "the capsule is cold."
+msgstr "舱内很冷。"
